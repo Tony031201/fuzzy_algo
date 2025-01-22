@@ -1,0 +1,74 @@
+[
+    {
+        "question": "What are the ingredients for the soup?",
+        "answer": "The ingredients for the soup are a piece of lemongrass, a piece of ginger, and a spoonful of water."
+    },
+    {
+        "question": "Where is the lemongrass stored?",
+        "answer": "The lemongrass is stored in refrigerator A."
+    },
+    {
+        "question": "Where is the ginger stored?",
+        "answer": "The ginger is stored in refrigerator B."
+    },
+    {
+        "question": "Where is the water stored?",
+        "answer": "The water is stored in refrigerator C."
+    },
+    {
+        "question": "How can you check the freshness of lemongrass?",
+        "answer": "Check for its vibrant green color and firm stalk."
+    },
+    {
+        "question": "How can you check the freshness of ginger?",
+        "answer": "Ginger should feel firm to the touch and have a slightly spicy aroma."
+    },
+    {
+        "question": "Why should you use filtered or distilled water?",
+        "answer": "Filtered or distilled water enhances the soup's taste by ensuring the flavors of the lemongrass and ginger shine through."
+    },
+    {
+        "question": "What should you do to prepare the lemongrass before cooking?",
+        "answer": "Peel off the tougher outer layers and slightly crush the stalk to release its aromatic oils."
+    },
+    {
+        "question": "How should you prepare the ginger before cooking?",
+        "answer": "You can peel it for a smoother flavor or leave the skin on for a slight earthiness."
+    },
+    {
+        "question": "What utensils do you need to prepare the soup?",
+        "answer": "You need a small saucepan, a sharp knife, and clean utensils."
+    },
+    {
+        "question": "What is the first step to combine the ingredients?",
+        "answer": "Add the water to the saucepan and bring it to a gentle boil."
+    },
+    {
+        "question": "What optional ingredients can you add to the soup for more flavor?",
+        "answer": "You can add a pinch of salt or a dash of lime juice."
+    },
+    {
+        "question": "How long should the soup simmer?",
+        "answer": "The soup should simmer for 10–15 minutes."
+    },
+    {
+        "question": "How should you serve the soup?",
+        "answer": "Serve it warm in a bowl, optionally paired with crusty bread or steamed rice."
+    },
+    {
+        "question": "What can you do to make the soup more filling?",
+        "answer": "You can add ingredients like garlic, chili peppers, or chicken."
+    },
+    {
+        "question": "How should you store leftover soup?",
+        "answer": "Store it in an airtight container and refrigerate it for later."
+    },
+    {
+        "question": "What should you do if the ingredients are running low?",
+        "answer": "Inform other household members or note it down for the next grocery run."
+    },
+    {
+        "question": "Why should you label remaining ingredients in the refrigerators?",
+        "answer": "Labeling ensures they are easy to locate for the next cooking session."
+    }
+]
