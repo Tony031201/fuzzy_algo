@@ -228,43 +228,47 @@
         "answer": "冷库旁边的小房间里"
     },
     {
-        "question": "牛肉面 (搭配类)",
+        "question": "抓牛肉面",
         "answer": "一个面，白菜苗，四块牛肉和一碗牛肉汤，汤里加两块红萝卜"
     },
     {
-        "question": "assam fish",
+        "question": "抓assam fish",
         "answer": "四块番茄，一勺酸液，四片lemon grass，姜蓉，干葱蓉，香茅碎"
     },
     {
         "question": "冬阴功汤",
-        "answer": "四块番茄，一勺酸液，四片lemon grass, 蔬菜汤"
+        "answer": "四块番茄，一勺酸液，四片lemon grass, 蔬菜汤,冬阴功酱，柠檬汁."
     },
     {
         "question": "每天重点检查清单",
         "answer": "蘑菇，西兰花，芽菜，青葱，芥兰, 鸡肉，牛肉, 虾"
     },
     {
-        "question": "鸡胸肉 (开冰类)",
+        "question": "鸡胸肉开冰",
         "answer": "在走廊的冰柜里"
     },
     {
-        "question": "牛肉 (开冰类)",
+        "question": "长牛肉开冰",
         "answer": "在走廊的冰柜里"
     },
     {
-        "question": "小虾 (开冰类)",
+        "question": "炒牛肉开冰",
+        "answer": "厕所旁边的冰柜里"
+    },
+    {
+        "question": "小虾开冰",
         "answer": "在冷库旁边的冰柜里"
     },
     {
-        "question": "大虾 (开冰类)",
-        "answer": "在冷库旁边的冰柜里"
+        "question": "大虾开冰",
+        "answer": "在冷库旁边的冰柜里,记得不要和小虾搞混"
     },
     {
-        "question": "整鸡 (开冰类)",
+        "question": "整鸡开冰",
         "answer": "在走廊的冰柜里"
     },
     {
-        "question": "带子 (开冰类)",
+        "question": "带子开冰",
         "answer": "在冷库旁边的冰柜里，如果不够记得去走廊的冰柜里拿新的开冰"
     },
     {
@@ -534,5 +538,13 @@
     {
         "question": "Scallops (thawed)",
         "answer": "They are in the freezer next to the cold storage; if insufficient, remember to get more from the corridor freezer."
+    },
+    {
+        "question": "白菜苗",
+        "answer": "走进冷库, 前方架子的下面"
+    },
+    {
+        "question": "Chinese cabbage seedlings",
+        "answer": "Walk into the cold storage, under the shelf in front"
     }
 ]
