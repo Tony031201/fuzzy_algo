@@ -1,74 +1,538 @@
 [
     {
-        "question": "What are the ingredients for the soup?",
-        "answer": "The ingredients for the soup are a piece of lemongrass, a piece of ginger, and a spoonful of water."
+        "question": "饭碗放在哪?",
+        "answer": "放在电饭煲旁边的柜子的第二层。"
     },
     {
-        "question": "Where is the lemongrass stored?",
-        "answer": "The lemongrass is stored in refrigerator A."
+        "question": "盘子放在哪?",
+        "answer": "放在锅炉右边的烤箱里。"
     },
     {
-        "question": "Where is the ginger stored?",
-        "answer": "The ginger is stored in refrigerator B."
+        "question": "叶形状盘子",
+        "answer": "放在老板身后"
     },
     {
-        "question": "Where is the water stored?",
-        "answer": "The water is stored in refrigerator C."
+        "question": "特殊形状的盘子",
+        "answer": "一般会放在老板后方台子的上面"
     },
     {
-        "question": "How can you check the freshness of lemongrass?",
-        "answer": "Check for its vibrant green color and firm stalk."
+        "question": "西芹",
+        "answer": "一走进冷库就能看到，在你的正前方的下面"
     },
     {
-        "question": "How can you check the freshness of ginger?",
-        "answer": "Ginger should feel firm to the touch and have a slightly spicy aroma."
+        "question": "红萝卜",
+        "answer": "一走进冷库就能看到, 在你的正前方的上面"
     },
     {
-        "question": "Why should you use filtered or distilled water?",
-        "answer": "Filtered or distilled water enhances the soup's taste by ensuring the flavors of the lemongrass and ginger shine through."
+        "question": "红萝卜丝",
+        "answer": "走进冷库,看向你的左手边,用塑料小罐子装着"
     },
     {
-        "question": "What should you do to prepare the lemongrass before cooking?",
-        "answer": "Peel off the tougher outer layers and slightly crush the stalk to release its aromatic oils."
+        "question": "红萝卜片",
+        "answer": "走进冷库,看向你的左手边"
     },
     {
-        "question": "How should you prepare the ginger before cooking?",
-        "answer": "You can peel it for a smoother flavor or leave the skin on for a slight earthiness."
+        "question": "蘑菇",
+        "answer": "一走进冷库就能看到, 在你的正前方的第二层"
     },
     {
-        "question": "What utensils do you need to prepare the soup?",
-        "answer": "You need a small saucepan, a sharp knife, and clean utensils."
+        "question": "西兰花",
+        "answer": "一走进冷库就能看到, 在你的正前方的第二层"
     },
     {
-        "question": "What is the first step to combine the ingredients?",
-        "answer": "Add the water to the saucepan and bring it to a gentle boil."
+        "question": "小西兰花",
+        "answer": "透明冰柜的右边，从上往下数第三层"
     },
     {
-        "question": "What optional ingredients can you add to the soup for more flavor?",
-        "answer": "You can add a pinch of salt or a dash of lime juice."
+        "question": "青椒角",
+        "answer": "一走进冷库就能看到, 在你的正前方的第二层"
     },
     {
-        "question": "How long should the soup simmer?",
-        "answer": "The soup should simmer for 10–15 minutes."
+        "question": "红椒角",
+        "answer": "走进冷库,看向你的左手边"
     },
     {
-        "question": "How should you serve the soup?",
-        "answer": "Serve it warm in a bowl, optionally paired with crusty bread or steamed rice."
+        "question": "洋葱",
+        "answer": "在冷库旁边的小房间里"
     },
     {
-        "question": "What can you do to make the soup more filling?",
-        "answer": "You can add ingredients like garlic, chili peppers, or chicken."
+        "question": "洋葱丝",
+        "answer": "一走进冷库就能看到, 在你的正前方的第二层"
     },
     {
-        "question": "How should you store leftover soup?",
-        "answer": "Store it in an airtight container and refrigerate it for later."
+        "question": "洋葱角",
+        "answer": "一走进冷库就能看到, 在你的正前方的第二层"
     },
     {
-        "question": "What should you do if the ingredients are running low?",
-        "answer": "Inform other household members or note it down for the next grocery run."
+        "question": "土豆",
+        "answer": "走进冷库，在正前方架子和左手边的架子的中间。第二层的最里面. 记得检查需不需要制作"
     },
     {
-        "question": "Why should you label remaining ingredients in the refrigerators?",
-        "answer": "Labeling ensures they are easy to locate for the next cooking session."
+        "question": "马铃薯",
+        "answer": "走进冷库，在正前方架子和左手边的架子的中间。第二层的最里面. 记得检查需不需要制作"
+    },
+    {
+        "question": "鸡肉",
+        "answer": "一走进冷库就能看到，在你前方的脚边"
+    },
+    {
+        "question": "牛肉",
+        "answer": "走进冷库，在正前方架子和左手边的架子的中间。第二层的最里面. 记得检查需不需要制作"
+    },
+    {
+        "question": "小虾",
+        "answer": "透明冰柜的左边，从上往下数第三层. 用完记得开冰且制作"
+    },
+    {
+        "question": "大虾",
+        "answer": "透明冰柜的左边，从上往下数第三层. 用完记得开冰且制作"
+    },
+    {
+        "question": "椰菜",
+        "answer": "一走进冷库就能看到，正前方架子的最下面"
+    },
+    {
+        "question": "茄子",
+        "answer": "走进冷库，在正前方架子从下往上数的第二层"
+    },
+    {
+        "question": "芥兰",
+        "answer": "走进冷库，在正前方架子从下往上数的第二层"
+    },
+    {
+        "question": "四季豆",
+        "answer": "走进冷库，在正前方架子从下往上数的第二层"
+    },
+    {
+        "question": "青葱",
+        "answer": "走进冷库，在正前方架子从上往下数第二层"
+    },
+    {
+        "question": "藕",
+        "answer": "走进冷库，在正前方架子从下往上数的第一层"
+    },
+    {
+        "question": "藕片",
+        "answer": "透明冰柜的右边，鸡蛋液的下面"
+    },
+    {
+        "question": "姜",
+        "answer": "走进冷库，在正前方架子从下往上数的第一层"
+    },
+    {
+        "question": "姜丝",
+        "answer": "透明冰柜的右边，鸡蛋液的下面"
+    },
+    {
+        "question": "豆腐",
+        "answer": "走进冷库，左手边的架子，芽菜的后面"
+    },
+    {
+        "question": "芽菜",
+        "answer": "走进冷库，左手边的架子"
+    },
+    {
+        "question": "黄油",
+        "answer": "走进冷库，左手边的架子，菠萝的下面"
+    },
+    {
+        "question": "菠萝",
+        "answer": "走进冷库，左手边的架子"
+    },
+    {
+        "question": "黄面",
+        "answer": "走进冷库，在正前方架子从下往上数的第一层"
+    },
+    {
+        "question": "鱿鱼",
+        "answer": "透明冰柜的左边，从上往下数第三层"
+    },
+    {
+        "question": "带子",
+        "answer": "透明冰柜的左边，从上往下数第三层"
+    },
+    {
+        "question": "大虾 (重复)",
+        "answer": "透明冰柜的左边，从上往下数第三层"
+    },
+    {
+        "question": "牛肉面",
+        "answer": "走进冷库，左手边的架子"
+    },
+    {
+        "question": "冰青豆",
+        "answer": "冷库旁边的大冰箱，里面的最下面一层"
+    },
+    {
+        "question": "冰杂豆",
+        "answer": "冷库旁边的大冰箱，里面的最下面一层"
+    },
+    {
+        "question": "鸡蛋",
+        "answer": "没打的鸡蛋放在冷库角落里。打好的鸡蛋放在透明冰柜右边从上往下数第二层。"
+    },
+    {
+        "question": "豆干",
+        "answer": "没切的豆干放在冷库正前方架子的最上面。切好的豆干放在透明冰柜右边小西兰花的旁边,从上往下数第三层"
+    },
+    {
+        "question": "生抽",
+        "answer": "冷库旁边的大冰柜的旁边。用红色盖子的圆桶装着，插着抽取器。"
+    },
+    {
+        "question": "老抽",
+        "answer": "比例1:4. 一份来自生抽隔壁的老抽，四份来自后面案板下面的老抽。"
+    },
+    {
+        "question": "耗油",
+        "answer": "透明冰柜右边的最下面。如果没有就去罐头处开一罐"
+    },
+    {
+        "question": "姜酒",
+        "answer": "后方案板的下面"
+    },
+    {
+        "question": "春卷酱",
+        "answer": "走进冷库，右手边的方形塑料桶里"
+    },
+    {
+        "question": "排骨酱",
+        "answer": "走进冷库，左手边的架子的下面"
+    },
+    {
+        "question": "tropical Sauce",
+        "answer": "走进冷库，左手边的架子的下面"
+    },
+    {
+        "question": "tropical酱",
+        "answer": "走进冷库，左手边的架子的下面"
+    },
+    {
+        "question": "gulu Sauce",
+        "answer": "走进冷库，左手边的架子的下面"
+    },
+    {
+        "question": "咕噜酱",
+        "answer": "走进冷库，左手边的架子的下面"
+    },
+    {
+        "question": "糖",
+        "answer": "冷库旁边的小房间里"
+    },
+    {
+        "question": "盐",
+        "answer": "冷库旁边的小房间里"
+    },
+    {
+        "question": "味精",
+        "answer": "冷库旁边的小房间里"
+    },
+    {
+        "question": "牛肉面 (搭配类)",
+        "answer": "一个面，白菜苗，四块牛肉和一碗牛肉汤，汤里加两块红萝卜"
+    },
+    {
+        "question": "assam fish",
+        "answer": "四块番茄，一勺酸液，四片lemon grass，姜蓉，干葱蓉，香茅碎"
+    },
+    {
+        "question": "冬阴功汤",
+        "answer": "四块番茄，一勺酸液，四片lemon grass, 蔬菜汤"
+    },
+    {
+        "question": "每天重点检查清单",
+        "answer": "蘑菇，西兰花，芽菜，青葱，芥兰, 鸡肉，牛肉, 虾"
+    },
+    {
+        "question": "鸡胸肉 (开冰类)",
+        "answer": "在走廊的冰柜里"
+    },
+    {
+        "question": "牛肉 (开冰类)",
+        "answer": "在走廊的冰柜里"
+    },
+    {
+        "question": "小虾 (开冰类)",
+        "answer": "在冷库旁边的冰柜里"
+    },
+    {
+        "question": "大虾 (开冰类)",
+        "answer": "在冷库旁边的冰柜里"
+    },
+    {
+        "question": "整鸡 (开冰类)",
+        "answer": "在走廊的冰柜里"
+    },
+    {
+        "question": "带子 (开冰类)",
+        "answer": "在冷库旁边的冰柜里，如果不够记得去走廊的冰柜里拿新的开冰"
+    },
+    {
+        "question": "Where are the rice bowls placed?",
+        "answer": "They are placed on the second shelf of the cabinet next to the rice cooker."
+    },
+    {
+        "question": "Where are the plates kept?",
+        "answer": "They are kept inside the oven located to the right of the boiler."
+    },
+    {
+        "question": "Leaf-shaped plates",
+        "answer": "They are placed behind the boss."
+    },
+    {
+        "question": "Special-shaped plates",
+        "answer": "They are generally placed on top of the counter behind the boss."
+    },
+    {
+        "question": "Celery",
+        "answer": "As soon as you enter the cold storage, it is visible below right in front of you."
+    },
+    {
+        "question": "Carrots",
+        "answer": "As soon as you enter the cold storage, they are visible above right in front of you."
+    },
+    {
+        "question": "Shredded carrots",
+        "answer": "Upon entering the cold storage, look to your left; they are stored in a small plastic container."
+    },
+    {
+        "question": "Carrot slices",
+        "answer": "Upon entering the cold storage, look to your left."
+    },
+    {
+        "question": "Mushrooms",
+        "answer": "As soon as you enter the cold storage, they are visible on the second shelf right in front of you."
+    },
+    {
+        "question": "Broccoli",
+        "answer": "As soon as you enter the cold storage, it is visible on the second shelf right in front of you."
+    },
+    {
+        "question": "Baby broccoli",
+        "answer": "It is located on the right side of the transparent freezer, on the third shelf from the top."
+    },
+    {
+        "question": "Green pepper pieces",
+        "answer": "As soon as you enter the cold storage, they are visible on the second shelf right in front of you."
+    },
+    {
+        "question": "Red pepper pieces",
+        "answer": "Upon entering the cold storage, look to your left."
+    },
+    {
+        "question": "Onions",
+        "answer": "They are stored in the small room adjacent to the cold storage."
+    },
+    {
+        "question": "Shredded onions",
+        "answer": "As soon as you enter the cold storage, they are visible on the second shelf right in front of you."
+    },
+    {
+        "question": "Onion pieces",
+        "answer": "As soon as you enter the cold storage, they are visible on the second shelf right in front of you."
+    },
+    {
+        "question": "Potatoes",
+        "answer": "Upon entering the cold storage, they are located in the middle between the front shelf and the left shelf, on the innermost part of the second shelf. Remember to check if they need to be prepared."
+    },
+    {
+        "question": "Potatoes (alternate)",
+        "answer": "Upon entering the cold storage, they are located in the middle between the front shelf and the left shelf, on the innermost part of the second shelf. Remember to check if they need to be prepared."
+    },
+    {
+        "question": "Chicken",
+        "answer": "As soon as you enter the cold storage, it is visible at your feet in front of you."
+    },
+    {
+        "question": "Beef",
+        "answer": "Upon entering the cold storage, it is located in the middle between the front shelf and the left shelf, on the innermost part of the second shelf. Remember to check if it needs to be prepared."
+    },
+    {
+        "question": "Small shrimp",
+        "answer": "They are on the left side of the transparent freezer, on the third shelf from the top. After use, remember to refreeze and prepare."
+    },
+    {
+        "question": "Large shrimp",
+        "answer": "They are on the left side of the transparent freezer, on the third shelf from the top. After use, remember to refreeze and prepare."
+    },
+    {
+        "question": "Cabbage",
+        "answer": "As soon as you enter the cold storage, it is visible on the bottom shelf of the front rack."
+    },
+    {
+        "question": "Eggplant",
+        "answer": "Upon entering the cold storage, it is on the second shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Chinese broccoli",
+        "answer": "Upon entering the cold storage, it is on the second shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Green beans",
+        "answer": "Upon entering the cold storage, they are on the second shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Scallions",
+        "answer": "Upon entering the cold storage, they are on the second shelf from the top on the front rack."
+    },
+    {
+        "question": "Lotus root",
+        "answer": "Upon entering the cold storage, it is on the first shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Lotus root slices",
+        "answer": "They are on the right side of the transparent freezer, below the egg liquid."
+    },
+    {
+        "question": "Ginger",
+        "answer": "Upon entering the cold storage, it is on the first shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Shredded ginger",
+        "answer": "It is on the right side of the transparent freezer, below the egg liquid."
+    },
+    {
+        "question": "Tofu",
+        "answer": "Upon entering the cold storage, it is on the shelf on the left, behind the sprouts."
+    },
+    {
+        "question": "Sprouts",
+        "answer": "They are on the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Butter",
+        "answer": "Upon entering the cold storage, it is on the shelf on the left, below the pineapple."
+    },
+    {
+        "question": "Pineapple",
+        "answer": "It is on the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Yellow noodles",
+        "answer": "Upon entering the cold storage, they are on the first shelf from the bottom on the front rack."
+    },
+    {
+        "question": "Squid",
+        "answer": "It is on the left side of the transparent freezer, on the third shelf from the top."
+    },
+    {
+        "question": "Scallops",
+        "answer": "They are on the left side of the transparent freezer, on the third shelf from the top."
+    },
+    {
+        "question": "Large shrimp (duplicate)",
+        "answer": "They are on the left side of the transparent freezer, on the third shelf from the top."
+    },
+    {
+        "question": "Beef noodles",
+        "answer": "Upon entering the cold storage, they are on the shelf on the left."
+    },
+    {
+        "question": "Frozen green beans",
+        "answer": "They are in the big freezer next to the cold storage, on the bottom shelf."
+    },
+    {
+        "question": "Frozen mixed beans",
+        "answer": "They are in the big freezer next to the cold storage, on the bottom shelf."
+    },
+    {
+        "question": "Eggs",
+        "answer": "Uncracked eggs are placed in the corner of the cold storage; cracked eggs are on the second shelf from the top on the right side of the transparent freezer."
+    },
+    {
+        "question": "Dried tofu",
+        "answer": "Uncut dried tofu is placed on the top shelf of the front rack in the cold storage; sliced dried tofu is placed next to the baby broccoli on the right side of the transparent freezer, on the third shelf from the top."
+    },
+    {
+        "question": "Light soy sauce",
+        "answer": "It is placed next to the big freezer adjacent to the cold storage, in a round container with a red lid and a built-in dispenser."
+    },
+    {
+        "question": "Dark soy sauce",
+        "answer": "Mixed in a ratio of 1:4: one part dark soy sauce from beside the light soy sauce and four parts from the dark soy sauce stored under the back counter."
+    },
+    {
+        "question": "Oyster sauce",
+        "answer": "It is located at the bottom of the right side of the transparent freezer. If unavailable, get a can from the canned goods area."
+    },
+    {
+        "question": "Ginger wine",
+        "answer": "It is stored below the back counter."
+    },
+    {
+        "question": "Spring roll sauce",
+        "answer": "Upon entering the cold storage, it is in a square plastic container on the right."
+    },
+    {
+        "question": "Pork rib sauce",
+        "answer": "It is located on the underside of the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Tropical Sauce",
+        "answer": "It is located on the underside of the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Tropical sauce",
+        "answer": "It is located on the underside of the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Gulu Sauce",
+        "answer": "It is located on the underside of the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Gulu sauce",
+        "answer": "It is located on the underside of the shelf on the left in the cold storage."
+    },
+    {
+        "question": "Sugar",
+        "answer": "It is stored in the small room next to the cold storage."
+    },
+    {
+        "question": "Salt",
+        "answer": "It is stored in the small room next to the cold storage."
+    },
+    {
+        "question": "MSG",
+        "answer": "It is stored in the small room next to the cold storage."
+    },
+    {
+        "question": "Beef noodles (combo)",
+        "answer": "It consists of one serving of noodles, some cabbage sprouts, four pieces of beef, and a bowl of beef soup with two pieces of carrot."
+    },
+    {
+        "question": "Assam fish",
+        "answer": "It includes four slices of tomato, a spoonful of sour liquid, four slices of lemon grass, ginger paste, dried shallot paste, and crushed lemongrass."
+    },
+    {
+        "question": "Tom Yum Goong soup",
+        "answer": "It consists of four slices of tomato, a spoonful of sour liquid, four slices of lemon grass, and vegetable soup."
+    },
+    {
+        "question": "Daily key inspection checklist",
+        "answer": "Mushrooms, broccoli, sprouts, scallions, Chinese broccoli, chicken, beef, and shrimp."
+    },
+    {
+        "question": "Chicken breast (thawed)",
+        "answer": "They are in the freezer in the corridor."
+    },
+    {
+        "question": "Beef (thawed)",
+        "answer": "It is in the freezer in the corridor."
+    },
+    {
+        "question": "Small shrimp (thawed)",
+        "answer": "They are in the freezer next to the cold storage."
+    },
+    {
+        "question": "Large shrimp (thawed)",
+        "answer": "They are in the freezer next to the cold storage."
+    },
+    {
+        "question": "Whole chicken (thawed)",
+        "answer": "It is in the freezer in the corridor."
+    },
+    {
+        "question": "Scallops (thawed)",
+        "answer": "They are in the freezer next to the cold storage; if insufficient, remember to get more from the corridor freezer."
     }
 ]
